@@ -1,8 +1,8 @@
 # GroupProjCS28010Nov
-This repository consists of the source code for the CS28010 course project in SJTU in 2019
+The goal is to study the impact of sample size and network depth on CNN in pattern recognition using EMG data. This repository consists of the source code for the CS28010 course project in SJTU in 2019. 
 
 ***********************
-Author: Gansheng TAN, Haipeng XU, Yang XU, Yangsong WANG
+Authors: Gansheng TAN, Haipeng XU, Yang XU, Yangsong WANG
 
 **********************
 For simplicity, we create only a single branch, master, which certaily have defects
